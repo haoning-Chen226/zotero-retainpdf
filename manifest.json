@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Zotero → RetainPDF",
+  "version": "1.0.2",
+  "description": "自用 Zotero 插件：按分类将新论文 PDF 导入 RetainPDF，并提交中文全文翻译。",
+  "applications": {
+    "zotero": {
+      "id": "retainpdf-bridge@local.invalid",
+      "update_url": "https://raw.githubusercontent.com/haoning-Chen226/zotero-retainpdf/main/updates.json",
+      "strict_min_version": "10.0",
+      "strict_max_version": "10.0.*"
+    }
+  },
+  "author": "haoning-Chen226",
+  "homepage_url": "https://github.com/haoning-Chen226/zotero-retainpdf"
+}

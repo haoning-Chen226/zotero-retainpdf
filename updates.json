@@ -1,0 +1,19 @@
+{
+  "addons": {
+    "retainpdf-bridge@local.invalid": {
+      "updates": [
+        {
+          "version": "1.0.2",
+          "update_link": "https://github.com/haoning-Chen226/zotero-retainpdf/releases/download/v1.0.2/Zotero-RetainPDF-Bridge-1.0.2.xpi",
+          "update_hash": "sha256:357dfe257a0cb694233a9215142383eb9227081a8570d924a6d11a242df3bdb2",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "10.0",
+              "strict_max_version": "10.0.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
